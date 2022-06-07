@@ -9,5 +9,5 @@ This is the required code of the paper /  report
 4. Install the required libraries from the requirements.txt file.
 5. Execute the code.
 
-##### For more information, Please refer the Project Synopsis Report. #####
+##### For more images and information, Please refer the Project Synopsis Report. #####
 
